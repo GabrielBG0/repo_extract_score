@@ -1,6 +1,9 @@
 repo_url
 https://github.com/facebookresearch/vissl
 https://github.com/apple/corenet
+https://github.com/discovery-unicamp/Minerva
+https://github.com/open-mmlab/mmsegmentation
+https://github.com/open-mmlab/mmdetection
 https://github.com/deepinv/deepinv
 https://github.com/facebookresearch/fairseq
 https://github.com/josephmisiti/awesome-machine-learning
@@ -36,8 +39,6 @@ https://github.com/adap/flower
 https://github.com/facebookincubator/AITemplate
 https://github.com/facebookresearch/DiT
 https://github.com/facebookresearch/xformers
-https://github.com/open-mmlab/mmsegmentation
-https://github.com/open-mmlab/mmdetection
 https://github.com/apple/coremltools
 https://github.com/speedinghzl/pytorch-segmentation-toolbox
 https://github.com/NVIDIA/semantic-segmentation
