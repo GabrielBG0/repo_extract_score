@@ -490,7 +490,7 @@ Most modern ML repos use **shallow inheritance**:
 
 | Range      | Interpretation | Characteristics                                     | Example Repos                                    |
 | ---------- | -------------- | --------------------------------------------------- | ------------------------------------------------ |
-| **70-100** | Excellent      | Minimal registries, high modularity, self-contained | MIScnn (60), segmentation_models.pytorch (61)    |
+| **70-100** | Excellent      | Minimal registries, high modularity, self-contained | None Found                                       |
 | **60-70**  | Very Good      | Clean architecture, some minor coupling             | cssegmentation (64), lightning-transformers (62) |
 | **50-60**  | Good           | Extractable with moderate effort                    | Lightly (56), deepinv (56)                       |
 | **40-50**  | Moderate       | Some architectural challenges                       | VISSL (39), s3prl (41)                           |
