@@ -653,16 +653,6 @@ extractability = 100 * (
 
 ---
 
-## License & Citation
-
-If you use this tool in research, please cite:
-
-```
-[Your citation format here]
-```
-
----
-
 ## Version History
 
 - **v7**: Size-aware penalties, context-aware registry scoring, internal dependency bonus
@@ -674,14 +664,3 @@ If you use this tool in research, please cite:
 - **v1**: Simple dependency counting
 
 ---
-
-## Contact & Support
-
-For questions, issues, or contributions:
-- GitHub Issues: [Your repo]
-- Email: [Your email]
-- Documentation: [Your docs link]
-
----
-
-**Happy Analyzing! 🎯**
